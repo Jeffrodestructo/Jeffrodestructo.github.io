@@ -48,9 +48,9 @@ ul.contact-ul {
 
 </style>
 
-You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add. 
+You can send me your feedback or questions. Additionally I have a discord group if you are interested let me knnow in the email. 
 
-Also, if you are willing to add it yourself then feel free to open a pull request after making changes.
+
 
 <form id="contact-form" class="form" action="https://formspree.io/{{site.email}}" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
