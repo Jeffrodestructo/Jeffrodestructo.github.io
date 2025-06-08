@@ -48,32 +48,38 @@ ul.contact-ul {
 
 </style>
 
-You can send me your feedback or questions. Additionally I have a discord group if you are interested let me know in the email. 
+You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add. 
 
+Also, if you are willing to add it yourself then feel free to open a pull request after making changes.
 
+<form id="contact-form"
+      action="https://formsubmit.co/canofworms23@yahoo.com"
+      method="POST">
 
-<form id="contact-form" class="form" action="https://formspree.io/{{site.email}}" method="POST" enctype="multipart/form-data">
-        <ul class="contact-ul">
-            <li class="contact-li">
-                <label class="contact-label" for="name">Name:</label>
-                <input type="text" placeholder="Your name" id="name" class="contact-input" name="name" tabindex="1"/>
-            </li>
-            <li class="contact-li">
-                <label class="contact-label" for="email">Email:</label>
-                <input type="email" placeholder="Your email" id="email" class="contact-input" name="email" tabindex="2"/>
-            </li>
-            <li class="contact-li">
-                <label class="contact-label" for="message">Message:</label>
-                <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
-            </li>
-            <input class="button" type="submit" value="Send" id="submit"/>
-        </ul>
-        
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
-        
+  <!-- 防機器人 honeypot，必填但藏起來 -->
+  <input type="text" name="_gotcha" style="display:none" />
+  <!-- 自訂提交後跳轉頁面，可改成你自己的 thank-you.html -->
+  <input type="hidden" name="_next" value="/thank-you.html" />
+
+  <ul class="contact-ul">
+    <li class="contact-li">
+      <label class="contact-label" for="name">Name:</label>
+      <input type="text"    id="name"    name="name"    class="contact-input" placeholder="Your name" required />
+    </li>
+    <li class="contact-li">
+      <label class="contact-label" for="email">Email:</label>
+      <input type="email"   id="email"   name="email"   class="contact-input" placeholder="Your email" required />
+    </li>
+    <li class="contact-li">
+      <label class="contact-label" for="message">Message:</label>
+      <textarea id="message" name="message" class="contact-input" rows="4" placeholder="Your message" required></textarea>
+    </li>
+  </ul>
+
+  <button type="submit" id="submit">Send</button>
 </form>
 
-Just update the ``email:`` in config.yml to make this form work.
+Just update the email: in config.yml to make this form work.
 
 
-[Add a contact form](https://blog.webjeda.com/jekyll-contact-form/)
+Add a contact form
