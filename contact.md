@@ -48,7 +48,7 @@ ul.contact-ul {
 
 </style>
 
-You can send me your feedback or questions. Additionally I have a discord group if you are interested let me knnow in the email. 
+You can send me your feedback or questions. Additionally I have a discord group if you are interested let me know in the email. 
 
 
 
