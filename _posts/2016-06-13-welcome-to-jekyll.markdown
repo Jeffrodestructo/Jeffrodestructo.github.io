@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Remote Viewing!"
-date:   2025-06-08-revisednewsite-1.md.docx
+date:   
 categories: update
 img: Jeff_Mandy_snakeriver_2005.JPG
 categories: [one, two]
