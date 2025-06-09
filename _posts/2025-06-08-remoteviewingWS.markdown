@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Remote Viewing!"
 date:   2025-06-08 10:51:47 +0530 
 categories: jekyll update
-img: lost-2.jpg
+img: Jeff_Mandy_snakeriver_2005.JPG
 categories: [one, two]
 ---
  Remote viewing what is it and how does it work: 
