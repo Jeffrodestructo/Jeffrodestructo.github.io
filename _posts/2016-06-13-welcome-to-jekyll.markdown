@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-06-13 10:51:47 +0530
-categories: jekyll update
+title:  "Welcome to Remote Viewing!"
+date:   2025-06-08-revisednewsite-1.md.do
+categories: update
 img: lost-2.jpg
 categories: [one, two]
 ---
