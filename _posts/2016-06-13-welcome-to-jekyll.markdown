@@ -6,6 +6,15 @@ categories: update
 img: Jeff_Mandy_snakeriver_2005.JPG
 categories: [one, two]
 ---
+ Remote viewing what is it and how does it work: 
+WHAT IS REMOTE VIEWING: Remote viewing in its simplest format, it is the ability to see a location in time and space. However, this is overly simplified. 
+Why learn about remote viewing:
+1.	To have fun and see the world thru a different lens
+2.	Exploring new avenues to learn about the world
+3.	Use as personal help tool
+4.	Use to help others
+5.	Most learn it for what they can discover about themselves
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
