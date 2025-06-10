@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wandering wizard and his healthy fear of the unknown
-img: wanabe_wizard_daily_grind.png
+img:
 ---
 
 A new time is coming and an operation looms. A new knee is right around the corner
