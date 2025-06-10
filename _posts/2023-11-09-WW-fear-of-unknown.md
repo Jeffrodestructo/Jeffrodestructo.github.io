@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wandering wizard and his healthy fear of the unknown
-img:
+img: Cosmo_ComfyUI_.png
 ---
 
 A new time is coming and an operation looms. A new knee is right around the corner
