@@ -15,7 +15,7 @@ Why learn about remote viewing:
 4.	Use to help others
 5.	Most learn it for what they can discover about themselves.
 
-TRAINING/PRACTISE: HOW TO START:
+TRAINING/PRACTISE: VERY SIMPLIFIED WAY TO START: See also the RESOURCES page on this site
 Process:
 1.	Area to focus
 2.	Acquiring a blind target
