@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting up links and stuff"
+title:  "Resources"
 date:   2025-06-11 10:51:47 +0530
 categories: jekyll update
 img: Jeffrodestructo-2.PNG
