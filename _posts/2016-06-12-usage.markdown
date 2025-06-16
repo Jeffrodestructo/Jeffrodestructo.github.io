@@ -6,23 +6,12 @@ categories: jekyll update
 img: Jeffrodestructo-2.PNG
 categories: [one, two]
 ---
-On this page is an introduction to my youtube channel as well as useful links to a well known and respected controlled remote viewer(CRV) Lyn Buchanan, The link will take you to his terminology page on his web site to help you learn some of the terminoloy used in controlled remote viewing. The majority of these terms are used across multiple remote viewers. The second link will take you to the target of the week page for you to practise. Note there is also a tab for Free Resourses and check out the FAQ page. copy and paste this link into your browser to see other types of remote viewing with deffinition and history; 
+On this page is an introduction to my youtube channel as well as useful links to a well known and respected controlled remote viewer(CRV) Lyn Buchanan, The link will take you to his terminology page on his web site to help you learn some of the terminoloy used in controlled remote viewing. The majority of these terms are used across multiple remote viewers. The second link will take you to the target of the week page for you to practise. Note there is also a tab for Free Resourses and check out the FAQ page.  
 1. [Terminology][link-one] 
 2. [Targets Lyn Buchanan][link-2]
 3. [Different methodologies of Remote viewing][last-link].
 
-Types of remote viewing include: Cowboy remote viewing=
-This is a demonstration of how you put youtube videos on blog posts.
 
-The structure of youtube video url link goes like this:
-
-https://www.youtube.com/watch?v= + [Video ID]
-
-The structure of youtube video display on this template goes like this:
-
-src="https://www.youtube.com/embed/ + [Video ID]"
-
-Replace the youtube Video ID on this template with the one you copied from youtube website, you should be able to see youtube video display area on blog posts.
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/7-MVyx36koY" frameborder="0" allowfullscreen></iframe>
 
