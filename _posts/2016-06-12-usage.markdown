@@ -3,7 +3,7 @@ layout: post
 title:  "Resources"
 date:   2025-06-11 10:51:47 +0530
 categories: jekyll update
-img: Jeffrodestructo-2.PNG
+img: remoteviewing_wizard_chatgpt.jpg
 categories: [one, two]
 ---
 On this page is an introduction to my youtube channel as well as useful links to a well known and respected controlled remote viewer(CRV) Lyn Buchanan, The link will take you to his terminology page on his web site to help you learn some of the terminoloy used in controlled remote viewing. The majority of these terms are used across multiple remote viewers. The second link will take you to the target of the week page for you to practise. Note there is also a tab for Free Resourses and check out the FAQ page.  
